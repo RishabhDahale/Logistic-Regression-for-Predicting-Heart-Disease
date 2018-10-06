@@ -4,6 +4,8 @@ The goal is to predict the binary class heart_disease_present, which represents 
 
     0 represents no heart disease present
     1 represents heart disease present
+    
+For the same dataset I have implemented linear discriminant analysis, logistic regression and Naive bayes algorithms. When tested the output, logistic regression gave the highest accuracy.
 
 # Dataset
 
